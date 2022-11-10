@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\Moving UI Elements to left and right\Moving UI Elements to left and right\x64\Debug\Moving UI Elements to left and right.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\Moving UI Elements to left and right\Moving UI Elements to left and right\x64\Debug\Moving UI Elements to left and right.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\Moving UI Elements to left and right\Moving UI Elements to left and right\x64\Debug\Moving_UI_Elements_to_left_and_right.Form1.resources
+C:\Users\hp\Desktop\win form project\Moving UI Elements to left and right\Moving UI Elements to left and right\x64\Debug\Moving UI Elements to left and right.vcxproj.GenerateResource.cache

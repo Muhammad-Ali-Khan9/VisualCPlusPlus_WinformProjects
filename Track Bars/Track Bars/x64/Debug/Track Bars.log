@@ -1,0 +1,5 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\hp\Desktop\win form project\Track Bars\Track Bars\Form1.h(113,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\Desktop\win form project\Track Bars\Track Bars\Form1.h(119,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Track Bars.vcxproj -> C:\Users\hp\Desktop\win form project\Track Bars\x64\Debug\Track Bars.exe

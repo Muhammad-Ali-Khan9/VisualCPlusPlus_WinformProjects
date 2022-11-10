@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\Timer\Timer\x64\Debug\Timer.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\Timer\Timer\x64\Debug\Timer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\Timer\Timer\x64\Debug\Timer.Form1.resources
+C:\Users\hp\Desktop\win form project\Timer\Timer\x64\Debug\Timer.vcxproj.GenerateResource.cache

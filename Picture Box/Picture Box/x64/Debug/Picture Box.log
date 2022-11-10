@@ -1,0 +1,7 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\Form1.h(144,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\Form1.h(145,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\Form1.h(148,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\Form1.h(149,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Picture Box.vcxproj -> C:\Users\hp\Desktop\win form project\Picture Box\x64\Debug\Picture Box.exe

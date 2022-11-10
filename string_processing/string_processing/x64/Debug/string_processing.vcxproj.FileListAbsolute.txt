@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\string_processing\string_processing\x64\Debug\string_processing.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\string_processing\string_processing\x64\Debug\string_processing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\string_processing\string_processing\x64\Debug\string_processing.Form1.resources
+C:\Users\hp\Desktop\win form project\string_processing\string_processing\x64\Debug\string_processing.vcxproj.GenerateResource.cache

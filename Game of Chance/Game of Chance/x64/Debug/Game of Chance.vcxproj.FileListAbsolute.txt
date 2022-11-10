@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\Game of Chance\Game of Chance\x64\Debug\Game of Chance.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\Game of Chance\Game of Chance\x64\Debug\Game of Chance.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\Game of Chance\Game of Chance\x64\Debug\Game_of_Chance.Form1.resources
+C:\Users\hp\Desktop\win form project\Game of Chance\Game of Chance\x64\Debug\Game of Chance.vcxproj.GenerateResource.cache

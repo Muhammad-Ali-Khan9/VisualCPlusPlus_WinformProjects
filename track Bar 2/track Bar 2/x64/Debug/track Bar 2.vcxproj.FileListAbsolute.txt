@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\track Bar 2\track Bar 2\x64\Debug\track Bar 2.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\track Bar 2\track Bar 2\x64\Debug\track Bar 2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\track Bar 2\track Bar 2\x64\Debug\track_Bar_2.Form1.resources
+C:\Users\hp\Desktop\win form project\track Bar 2\track Bar 2\x64\Debug\track Bar 2.vcxproj.GenerateResource.cache

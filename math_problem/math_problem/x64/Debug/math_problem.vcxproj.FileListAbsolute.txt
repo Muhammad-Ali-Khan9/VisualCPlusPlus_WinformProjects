@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\math_problem\math_problem\x64\Debug\math_problem.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\math_problem\math_problem\x64\Debug\math_problem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\math_problem\math_problem\x64\Debug\math_problem.Form1.resources
+C:\Users\hp\Desktop\win form project\math_problem\math_problem\x64\Debug\math_problem.vcxproj.GenerateResource.cache

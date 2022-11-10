@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\changing colour\changing colour\x64\Debug\changing colour.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\changing colour\changing colour\x64\Debug\changing colour.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\changing colour\changing colour\x64\Debug\changing_colour.Form1.resources
+C:\Users\hp\Desktop\win form project\changing colour\changing colour\x64\Debug\changing colour.vcxproj.GenerateResource.cache

@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\list and combo box\list and combo box\x64\Debug\list and combo box.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\list and combo box\list and combo box\x64\Debug\list and combo box.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\list and combo box\list and combo box\x64\Debug\list_and_combo_box.Form1.resources
+C:\Users\hp\Desktop\win form project\list and combo box\list and combo box\x64\Debug\list and combo box.vcxproj.GenerateResource.cache

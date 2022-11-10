@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\Menus\Menus\x64\Debug\Menus.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\Menus\Menus\x64\Debug\Menus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\Menus\Menus\x64\Debug\Menus.Form1.resources
+C:\Users\hp\Desktop\win form project\Menus\Menus\x64\Debug\Menus.vcxproj.GenerateResource.cache

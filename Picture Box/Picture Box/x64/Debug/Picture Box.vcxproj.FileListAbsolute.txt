@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\x64\Debug\Picture Box.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\x64\Debug\Picture Box.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\x64\Debug\Picture_Box.Form1.resources
+C:\Users\hp\Desktop\win form project\Picture Box\Picture Box\x64\Debug\Picture Box.vcxproj.GenerateResource.cache
